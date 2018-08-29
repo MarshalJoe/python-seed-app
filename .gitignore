@@ -1,0 +1,11 @@
+# System
+.DS_Store
+MANIFEST
+*.pyc
+
+# Data
+*.csv
+
+# Testing
+.tox
+.pytest_cache/
